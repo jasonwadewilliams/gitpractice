@@ -1,6 +1,4 @@
 one
 two
-three
-these are some additional changes
-to my file
-This is a test with the new username
+ready?
+Go!
